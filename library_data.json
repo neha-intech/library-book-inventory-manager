@@ -1,0 +1,45 @@
+{
+  "counter": 5,
+  "books": [
+    {
+      "book_id": "B001",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Fiction",
+      "year": 1988,
+      "is_issued": false,
+      "issued_to": null,
+      "issue_date": null
+    },
+    {
+      "book_id": "B002",
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "Self-Help",
+      "year": 2018,
+      "is_issued": false,
+      "issued_to": null,
+      "issue_date": null
+    },
+    {
+      "book_id": "B003",
+      "title": "Clean Code",
+      "author": "R.C. Martin",
+      "genre": "Tech",
+      "year": 2008,
+      "is_issued": false,
+      "issued_to": null,
+      "issue_date": null
+    },
+    {
+      "book_id": "B004",
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert T. Kiyosaki",
+      "genre": "Personal Finance",
+      "year": "1997",
+      "is_issued": false,
+      "issued_to": null,
+      "issue_date": null
+    }
+  ]
+}
